@@ -1,0 +1,44 @@
+list:
+
+teamstadiumlinks
+teams
+teamplayerlinks
+teamkits
+rowteamnationlinks
+rivals
+players
+playernames
+playerloans
+manager
+leagueteamlinks
+leagues
+formations
+stadiumassignments
+
+14
+
+match:
+
+teamstadiumlinks
+rowteamnationlinks
+rivals
+stadiumassignments
+
+automatic:
+
+teams 2
+teamplayerlinks 1
+teamkits 2
+players 2
+leagueteamlinks 1
+leagues 1
+formations 2
+playernames 1
+manager 1
+playerloans 1
+
+
+
+
+
+
