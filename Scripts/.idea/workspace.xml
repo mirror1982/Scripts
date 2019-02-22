@@ -1,0 +1,1182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75ac0972-40cb-47ca-bb72-7028e41aa4a1" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/fifa/16/utils/team_players_update.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fifa/17/db-squad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fifa/17/squad-db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fifa/17/tst_hex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifa/12/nppBackup/players12_new.txt.2016-08-09_183443.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifa/16/convert/filelist.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifa/16/convert/leagues.py" beforeDir="false" afterPath="$PROJECT_DIR$/fifa/16/convert/leagues.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifa/16/convert/new_players_16.py" beforeDir="false" afterPath="$PROJECT_DIR$/fifa/16/convert/new_players_16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifa/16/convert/new_teams_16.py" beforeDir="false" afterPath="$PROJECT_DIR$/fifa/16/convert/new_teams_16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifa/16/convert/teams_16.py" beforeDir="false" afterPath="$PROJECT_DIR$/fifa/16/convert/teams_16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifa/16/utils/check_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/fifa/16/utils/check_index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifa/16/utils/check_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/fifa/16/utils/check_name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifa/16/utils/clear_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/fifa/16/utils/clear_files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifa/images/logos/new_logo.py" beforeDir="false" afterPath="$PROJECT_DIR$/fifa/images/logos/new_logo.py" afterDir="false" />
+    </list>
+    <ignored path="Scripts.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Scripts$faces13.coverage" NAME="faces13 Coverage Results" MODIFIED="1470774821264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fifa/13" />
+    <SUITE FILE_PATH="coverage/Scripts$db_test.coverage" NAME="db_test Coverage Results" MODIFIED="1469560285179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/Scripts$update_spt.coverage" NAME="update_spt Coverage Results" MODIFIED="1469862012861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fifa/16" />
+    <SUITE FILE_PATH="coverage/Scripts$fifa_new_players_16.coverage" NAME="fifa_new_players_16 Coverage Results" MODIFIED="1471706572853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fifa/16" />
+    <SUITE FILE_PATH="coverage/Scripts$fifa_players_16.coverage" NAME="fifa_players_16 Coverage Results" MODIFIED="1471720280499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fifa/16" />
+    <SUITE FILE_PATH="coverage/Scripts$email.coverage" NAME="email Coverage Results" MODIFIED="1469529670200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Scripts$faces12.coverage" NAME="faces12 Coverage Results" MODIFIED="1470774788669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fifa/12" />
+    <SUITE FILE_PATH="coverage/Scripts$debug.coverage" NAME="debug Coverage Results" MODIFIED="1469529627087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Scripts$computepay.coverage" NAME="computepay Coverage Results" MODIFIED="1469548049675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Scripts$cmd.coverage" NAME="cmd Coverage Results" MODIFIED="1469548690893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Scripts" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fifa/18/utils/clear_files.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fifa/19/squad/squad-db.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fifa/18/convert/AIO.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fifa/19/convert/AIO.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fifa/18/convert/kits.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fifa/18/convert/new_kits.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fifa/19/other/check_index.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fifa/18/utils/check_name.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>52</find>
+      <find>form</find>
+      <find>utf_17</find>
+      <find>17ё</find>
+      <find>leagueteamlinks</find>
+      <find>ltl</find>
+      <find>1</find>
+      <find>dts</find>
+      <find>default_teamsheets</find>
+      <find>codecs</find>
+      <find>16</find>
+      <find>12</find>
+      <find>13</find>
+      <find>17</find>
+      <find>teams</find>
+      <find>defaultteamdata</find>
+      <find>players</find>
+      <find>teamplayerlinks</find>
+      <find>list_18</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>14</replace>
+      <replace>dts</replace>
+      <replace>dtd</replace>
+      <replace>utf_16</replace>
+      <replace>palyers</replace>
+      <replace>ltl</replace>
+      <replace>tpl</replace>
+      <replace>17</replace>
+      <replace>kits</replace>
+      <replace>16</replace>
+      <replace>18</replace>
+      <replace>players</replace>
+      <replace>stadiums</replace>
+      <replace>formations</replace>
+      <replace>teamkits</replace>
+      <replace>teams</replace>
+      <replace>teamplayerlinks</replace>
+      <replace>leagueteamlinks</replace>
+      <replace>leagues</replace>
+      <replace>list_pl</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/fifa/18/convert/playernames.py" />
+        <option value="$PROJECT_DIR$/fifa/18/convert/teams.py" />
+        <option value="$PROJECT_DIR$/fifa/18/convert/tpl.py" />
+        <option value="$PROJECT_DIR$/fifa/18/convert/new_players.py" />
+        <option value="$PROJECT_DIR$/fifa/18/convert/players_18to16.py" />
+        <option value="$PROJECT_DIR$/fifa/18/convert/add_players.py" />
+        <option value="$PROJECT_DIR$/fifa/18/convert/players.py" />
+        <option value="$PROJECT_DIR$/fifa/18/convert/rename_files.py" />
+        <option value="$PROJECT_DIR$/../Call of Duty WW II/english/rename_files.py" />
+        <option value="$PROJECT_DIR$/test/rename_files.py" />
+        <option value="$PROJECT_DIR$/usefull/test.py" />
+        <option value="$PROJECT_DIR$/usefull/rename_files.py" />
+        <option value="$PROJECT_DIR$/usefull/tkinter.py" />
+        <option value="$PROJECT_DIR$/fifa/18/squad/squad-db.py" />
+        <option value="$PROJECT_DIR$/fifa/16/utils/check_name.py" />
+        <option value="$PROJECT_DIR$/fifa/18/utils/tst.py" />
+        <option value="$PROJECT_DIR$/fifa/18/utils/update_team_18-16.py" />
+        <option value="$PROJECT_DIR$/fifa/18/utils/update_players_18-16.py" />
+        <option value="$PROJECT_DIR$/fifa/16/utils/check_index.py" />
+        <option value="$PROJECT_DIR$/fifa/18/utils/players_18-16.py" />
+        <option value="$PROJECT_DIR$/fifa/18/utils/faces.py" />
+        <option value="$PROJECT_DIR$/fifa/18/WC2018/check_index.py" />
+        <option value="$PROJECT_DIR$/fifa/18/WC2018/WC_players.py" />
+        <option value="$PROJECT_DIR$/fifa/18/other/faces18.py" />
+        <option value="$PROJECT_DIR$/fifa/18/convert/new_teams.py" />
+        <option value="$PROJECT_DIR$/fifa/18/other/add_stadiums.py" />
+        <option value="$PROJECT_DIR$/fifa/18/other/stadiums_18-16.py" />
+        <option value="$PROJECT_DIR$/fifa/18/utils/check_index.py" />
+        <option value="$PROJECT_DIR$/fifa/18/other/kits from wc.py" />
+        <option value="$PROJECT_DIR$/fifa/18/convert/AIO.py" />
+        <option value="$PROJECT_DIR$/test/time.py" />
+        <option value="$PROJECT_DIR$/fifa/19/other/players_18-16.py" />
+        <option value="$PROJECT_DIR$/fifa/19/other/formations_18-16.py" />
+        <option value="$PROJECT_DIR$/fifa/19/other/kits_18-16.py" />
+        <option value="$PROJECT_DIR$/fifa/19/other/teams_18-16.py" />
+        <option value="$PROJECT_DIR$/fifa/19/other/tpl_18-16.py" />
+        <option value="$PROJECT_DIR$/fifa/19/other/ltl_18-16.py" />
+        <option value="$PROJECT_DIR$/fifa/19/other/leagues_18-16.py" />
+        <option value="$PROJECT_DIR$/fifa/19/convert/form.py" />
+        <option value="$PROJECT_DIR$/fifa/19/convert/teams.py" />
+        <option value="$PROJECT_DIR$/fifa/19/convert/kits.py" />
+        <option value="$PROJECT_DIR$/fifa/19/convert/add_formations.py" />
+        <option value="$PROJECT_DIR$/fifa/19/convert/add_kits.py" />
+        <option value="$PROJECT_DIR$/fifa/19/other/check_index.py" />
+        <option value="$PROJECT_DIR$/fifa/19/convert/add_players.py" />
+        <option value="$PROJECT_DIR$/fifa/19/convert/players.py" />
+        <option value="$PROJECT_DIR$/fifa/19/other/check_dublicate.py" />
+        <option value="$PROJECT_DIR$/fifa/18/convert/new_kits.py" />
+        <option value="$PROJECT_DIR$/fifa/18/utils/clear_files.py" />
+        <option value="$PROJECT_DIR$/fifa/19/convert/AIO.py" />
+        <option value="$PROJECT_DIR$/fifa/18/utils/check_name.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="304" />
+    <option name="width" value="1616" />
+    <option name="height" value="916" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <sortByType ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="fifa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="fifa" type="462c0819:PsiDirectoryNode" />
+              <item name="18" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="fifa" type="462c0819:PsiDirectoryNode" />
+              <item name="18" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="lessons" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="176600&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.23474178" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Scripts" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Scripts" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="myAttachToSubprocess" value="false" />
+    <option name="mySupportQtDebugging" value="false" />
+  </component>
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Scripts\fifa\16" />
+      <recent name="D:\Scripts\fifa\12" />
+      <recent name="D:\Scripts\test" />
+      <recent name="D:\Scripts\dev_school" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Scripts\fifa\16\convert" />
+      <recent name="D:\mirantis\Scripts\puppet\puppet\modules\bacula-client\manifests" />
+      <recent name="D:\Scripts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.AIO">
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Scripts" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration name="Unnamed" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="C:\cygwin64\bin\bash.exe" />
+      <option name="PROJECT_INTERPRETER" value="false" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ping.sh" type="BashConfigurationType" factoryName="Bash">
+      <module name="Scripts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="C:\cygwin64\bin\bash.exe " />
+      <option name="PROJECT_INTERPRETER" value="false" />
+      <option name="WORKING_DIRECTORY" value="D:\Scripts\test" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/ping.sh" />
+      <option name="PARAMETERS" value="--login -i" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AIO" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="Scripts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fifa/18/convert" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fifa/18/convert/AIO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false">
+      <module name="Scripts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="check_name" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="Scripts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fifa/18/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fifa/18/utils/check_name.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="clear_files" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="Scripts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fifa/18/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fifa/18/utils/clear_files.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="new_kits" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="Scripts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fifa/18/convert" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fifa/18/convert/new_kits.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="players" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="Scripts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fifa/19/convert" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fifa/19/convert/players.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="Scripts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="Scripts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="Scripts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="Scripts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="Scripts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Bash.Unnamed" />
+      <item itemvalue="Bash.ping.sh" />
+      <item itemvalue="Python.clear_files" />
+      <item itemvalue="Python.AIO" />
+      <item itemvalue="Python.players" />
+      <item itemvalue="Python.new_kits" />
+      <item itemvalue="Python.check_name" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.AIO" />
+        <item itemvalue="Python.clear_files" />
+        <item itemvalue="Python.check_name" />
+        <item itemvalue="Python.new_kits" />
+        <item itemvalue="Python.players" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="windows-1251" />
+    <option name="myConnectionType" value="DEFAULT_SDK" />
+    <option name="myConnectionId" value="" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\mirror\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75ac0972-40cb-47ca-bb72-7028e41aa4a1" name="Default" comment="" />
+      <created>1451224611718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1451224611718</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1470756604867</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1470756604867</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1">
+      <created>1473338272112</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1473338272112</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1">
+      <created>1473338355396</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1473338355396</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1">
+      <created>1473338670704</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1473338670704</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1">
+      <created>1473347750887</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1473347750887</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1">
+      <created>1473350612033</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1473350612033</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1">
+      <created>1473370111621</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1473370111621</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1">
+      <created>1473501686357</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1473501686357</updated>
+    </task>
+    <task id="LOCAL-00009" summary="1">
+      <created>1474390128670</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1474390128670</updated>
+    </task>
+    <task id="LOCAL-00010" summary="1">
+      <created>1474390155273</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1474390155273</updated>
+    </task>
+    <task id="LOCAL-00011" summary="1">
+      <created>1474391095609</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1474391095609</updated>
+    </task>
+    <task id="LOCAL-00012" summary="1">
+      <created>1478388738990</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1478388738990</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_Scripts - 2016.11.08 at 18h 52m 02s.xml">
+      <configuration name="Unittests in Scripts" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="true" />
+      <flatten-packages value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="304" y="0" width="1616" height="916" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49878642" visible="true" weight="0.19818653" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24973147" />
+      <window_info id="Favorites" order="2" sideWeight="0.5012136" side_tool="true" weight="0.19474249" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49248928" weight="0.2231405" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32616082" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.3997735" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.36650485" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5075107" side_tool="true" weight="0.29562044" />
+      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.49789253" weight="0.16545013" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.2947625" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" weight="0.32886723" />
+      <window_info anchor="bottom" id="File Transfer" order="11" weight="0.32846716" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="LuaJ" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Data View" order="5" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="false" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="false" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="false" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="false" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/test" />
+    </ignored-roots>
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/fifa/18/utils/check_index.py</url>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/fifa/19/other/check_index.py</url>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint suspend="NONE" type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/fifa/18/squad/squad-db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/18/convert/copy_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/18/convert/add_teams.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/18/other/faces.py" />
+    <entry file="file://$PROJECT_DIR$/fifa/16/utils/clear_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="68" lean-forward="true" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/18/WC2018/WC_players.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/18/convert/teams.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/18/other/players_18-16 - копия.py" />
+    <entry file="file://$PROJECT_DIR$/fifa/18/other/add_stadiums.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/18/convert/new_teams.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/18/other/faces18.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/18/convert/add_dtd.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/18/other/stadiums_18-16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/18/other/players_18-16.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/hello.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/18/convert/add_kits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/18/utils/check_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/18/other/kits from wc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/19/other/teams_18-16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/19/other/tpl_18-16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/19/other/ltl_18-16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="51" column="15" selection-start-line="51" selection-start-column="15" selection-end-line="51" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/19/other/leagues_18-16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/19/other/formations_18-16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/19/other/players_18-16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/18/convert/players.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/19/other/kits_18-16.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/18/convert/add_players.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/19/convert/playernames.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/19/convert/form.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="49" column="14" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/19/convert/new_teams.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="44" selection-start-line="44" selection-end-line="54" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/19/convert/teams.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/19/convert/kits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/19/convert/add_dtd.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/19/convert/add_kits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/19/convert/add_players.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/19/convert/add_formations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usefull/rename_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/18/utils/missed_formations.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/19/convert/new_kits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" selection-start-line="25" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/19/convert/new_players.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1325">
+          <caret line="53" column="11" selection-start-line="44" selection-end-line="53" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/19/convert/players.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/19/other/check_dublicate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/19/squad/squad-db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/19/convert/AIO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/18/convert/kits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/18/convert/new_kits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/19/other/check_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/18/utils/check_name.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/18/utils/clear_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa/18/convert/AIO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
