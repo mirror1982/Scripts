@@ -1,0 +1,15 @@
+Match:
+
+teamplayerlinks
+leagues
+stadiumassignment
+
+Do not:
+
+formations
+leagueteamlinks
+playernames
+teamkits
+players
+teams
+teamstadiumlinks
